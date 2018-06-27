@@ -1,0 +1,93 @@
+
+<html>
+<title>Notes</title>
+<head>
+<style>
+l{
+   color:white;
+   font-family:Monotype Corsiva;
+   font-size:80px; 
+   word-spacing:10px;
+   position:relative;
+   top:0px;
+   left:500px;
+   text-shadow:-10px 20px 10px grey;
+}
+
+m{
+    color:white;
+    font-family:arial;
+    font-size:25px;
+    position:relative;
+    top:0px;
+    left:0px;
+    
+}
+
+n{
+ color:white;
+    font-family:arial;
+    font-size:25px;
+    position:relative;
+    top:0px;
+    left:100px;
+}
+
+z{
+ color:white;
+    font-family:arial;
+    font-size:25px;
+    position:relative;
+    top:0px;
+    left:200px;
+}
+
+r{
+ color:white;
+    font-family:arial;
+    font-size:25px;
+    position:relative;
+    top:0px;
+    left:300px;
+}
+
+c{
+ color:white;
+    font-family:arial;
+    font-size:25px;
+    position:relative;
+    top:0px;
+    left:400px;
+}
+
+a:link{
+  text-decoration:none;
+}
+
+d{
+ color:white;
+   font-family:Segoe MDL2 Assets;
+   font-size:50px; 
+   word-spacing:10px;
+   position:relative;
+   top:10px;
+   left:5px;
+  
+}
+
+  
+</style>
+</head>
+<body bgcolor="#00BFFF">
+   <l>CSE KHIT</l><hr />
+   <a href="1.home.html"><m>Home</m></a>
+   <a href="2.collegestuff.html"><n>College Stuff</n></a>
+   <a href="3.entertainment.html"><z>Entertainment</z></a>
+   <a href="4.more.html"><r>More</r></a>
+   <a href="5.help.html"><c>Help</c></a>
+<hr />
+</body>
+</html>
+
+
+

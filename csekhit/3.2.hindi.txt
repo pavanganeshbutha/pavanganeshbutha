@@ -1,0 +1,131 @@
+
+<html>
+<title>Hindi</title>
+<head>
+<style>
+l{
+   color:white;
+   font-family:Monotype Corsiva;
+   font-size:80px; 
+   word-spacing:10px;
+   position:relative;
+   top:0px;
+   left:500px;
+   text-shadow:-10px 20px 10px grey;
+}
+
+m{
+    color:white;
+    font-family:arial;
+    font-size:25px;
+    position:relative;
+    top:0px;
+    left:0px;
+    
+}
+
+n{
+ color:white;
+    font-family:arial;
+    font-size:25px;
+    position:relative;
+    top:0px;
+    left:100px;
+}
+
+z{
+ color:white;
+    font-family:arial;
+    font-size:25px;
+    position:relative;
+    top:0px;
+    left:200px;
+}
+
+r{
+ color:white;
+    font-family:arial;
+    font-size:25px;
+    position:relative;
+    top:0px;
+    left:300px;
+}
+
+c{
+ color:white;
+    font-family:arial;
+    font-size:25px;
+    position:relative;
+    top:0px;
+    left:400px;
+}
+
+a:link{
+  text-decoration:none;
+}
+
+d{
+ color:white;
+   font-family:Segoe MDL2 Assets;
+   font-size:50px; 
+   word-spacing:10px;
+   position:relative;
+   top:10px;
+   left:5px;
+  
+}
+
+h2{
+color:white;
+font-size:40px;
+position:relative;
+left:600px;
+}
+play{
+color:white;
+font-size:30px;
+border-radius:950px;
+background-color:blue;
+position:relative;
+left:100px;
+}
+
+
+  
+</style>
+</head>
+<body bgcolor="#00BFFF">
+   <l>CSE KHIT</l><hr />
+   <a href="1.home.html"><m>Home</m></a>
+   <a href="2.collegestuff.html"><n>College Stuff</n></a>
+   <a href="3.entertainment.html"><z>Entertainment</z></a>
+   <a href="4.more.html"><r>More</r></a>
+   <a href="5.help.html"><c>Help</c></a>
+<hr />
+
+<h2>Hindi</h2>
+
+<!--ae dil hai mushkil-->
+<h3>Ae Dil Hai Mushkil</h3>
+<img src="08img.jpg"/>
+<p>01 Aaj Jane Ki Zid Na Karo<a href="01 Aaj Jane Ki Zid Na Karo.mp3"><play>Play</play></a></p><hr />
+<p>02 Ae Dil Hai Mushkil</p><a href="02 Ae Dil Hai Mushkil.mp3"><play>Play</play></a></p><hr />
+<p>03 Alizeh</p><a href="03 Alizeh.mp3"><play>Play</play></a></p><hr />
+<p>04 Channa Mereya<a href="04 Channa Mereya.mp3"><play>Play</play></a></p><hr />
+<p>05 The Breakup Song<a href="05 The Breakup Song.mp3"><play>Play</play></a></p><hr />
+<p>06 Cutiepie<a href="06 Cutiepie.mp3"><play>Play</play></a></p><hr />
+<p>07 Bulleya<a href="07 Bulleya.mp3"><play>Play</play></a></p><hr />
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+

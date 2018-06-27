@@ -1,0 +1,47 @@
+
+<html>
+<title>CSE KHIT@2k16</title>
+<head>
+<style>
+l{
+  font-family:"Monotype Corsiva";
+  font-size:100px;
+  font-weight:bolder;
+  color:white;
+  text-shadow:-10px 20px 10px grey;
+  text-align:center;
+  position:relative;
+  top:100px;
+  left:450px;
+  
+}
+
+k{
+ border-radius:950px;
+ background-color:blue;
+ color:white; 
+ font-size:100px;
+ 
+ font-family:"Roman";
+ text-align:center;
+  position:relative;
+  top:100px;
+  left:450px;
+
+  box-shadow:10px 10px 5px #696969;
+   
+}  
+a:link{
+  text-decoration:none;
+}
+</style>
+
+</head>
+<body bgcolor="#00BFFF">
+<l>Welcome</l><br />
+<a href="1.home.html"
+    target="_blank"><k>Go Inside</k></a>
+</body>
+</html>
+
+

@@ -1,0 +1,152 @@
+
+<html>
+<title>Telugu</title>
+<head>
+<style>
+l{
+   color:white;
+   font-family:Monotype Corsiva;
+   font-size:80px; 
+   word-spacing:10px;
+   position:relative;
+   top:0px;
+   left:500px;
+   text-shadow:-10px 20px 10px grey;
+}
+
+m{
+    color:white;
+    font-family:arial;
+    font-size:25px;
+    position:relative;
+    top:0px;
+    left:0px;
+    
+}
+
+n{
+ color:white;
+    font-family:arial;
+    font-size:25px;
+    position:relative;
+    top:0px;
+    left:100px;
+}
+
+z{
+ color:white;
+    font-family:arial;
+    font-size:25px;
+    position:relative;
+    top:0px;
+    left:200px;
+}
+
+r{
+ color:white;
+    font-family:arial;
+    font-size:25px;
+    position:relative;
+    top:0px;
+    left:300px;
+}
+
+c{
+ color:white;
+    font-family:arial;
+    font-size:25px;
+    position:relative;
+    top:0px;
+    left:400px;
+}
+
+a:link{
+  text-decoration:none;
+}
+
+d{
+ color:white;
+   font-family:Segoe MDL2 Assets;
+   font-size:50px; 
+   word-spacing:10px;
+   position:relative;
+   top:10px;
+   left:5px;
+  
+}
+
+play{
+color:white;
+font-size:30px;
+border-radius:950px;
+background-color:blue;
+position:relative;
+left:100px;
+}
+h2{
+color:white;
+font-size:40px;
+position:relative;
+left:600px;
+}
+
+
+  
+</style>
+</head>
+<body bgcolor="#00BFFF">
+   <l>CSE KHIT</l><hr />
+   <a href="1.home.html"><m>Home</m></a>
+   <a href="2.collegestuff.html"><n>College Stuff</n></a>
+   <a href="3.entertainment.html"><z>Entertainment</z></a>
+   <a href="4.more.html"><r>More</r></a>
+   <a href="5.help.html"><c>Help</c></a>
+<hr />
+<h2>Telugu</h2><br />
+<!--kirrak party-->
+<h3>Kirak Party</h3><br /><br />
+<img src="kiraak party.jpg"/>
+<p>01.Dum Dare<a href="http://pavanganesh512.freeasphost.net/Dum_Dare.mp4"><play>Play</play></a></p><hr />
+<p>02 - Guruvaram<a href="http://pavanganesh512.freeasphost.net/Guruvaram.3gp"><play>Play</play></a></p><hr />
+<p>03 - Last Bench <a href="http://pavanganesh512.freeasphost.net/Last_Bench.mp4"><play>play</play></a></p><hr />
+<p>04 - Neelo Ninnu<a href="http://pavanganesh512.freeasphost.net/Neelo%20Ninnu.mp4"><play>Play</play></a></p><hr />
+<p>05 - Sir Bewarse<ahref="http://pavanganesh512.freeasphost.net/Sir%20Bewarse.mp4"><play>Play</play></a></p><hr />
+<p>06 - Pranamantha<a href="http://csekhit.freeasphost.net/Pranamantha.mp4"><play>Play</play></a></p><hr />
+<p>07 - Neechamaina<a href="http://pavanganesh512.freeasphost.net/07%20-%20Neechamaina.mp3"><play>Play</play></a></p><hr />
+
+<!--Rangasthalam-->
+<br />
+<h3>Rangasthalam</h3>
+<img src="Rangasthalam.jpg"/>
+<p>01 - Yentha Sakkagunnaave<a href="01 - Yentha Sakkagunnaave.mp3"><play>Play</play></a><hr />
+<p>02 - Ranga Ranga Rangasthalana<a href="02 - Ranga Ranga Rangasthalana.mp3"><play>Play</play></a></p><hr />
+<p>03 - Rangamma Mangamma<a href="03 - Rangamma Mangamma.mp3
+"><play>Play</play></a></p><hr />
+<p>04 - Aa Gattununtaava<a href="04 - Aa Gattununtaava.mp3"><play>Play</play></a>
+</p><hr />
+<p>05 - Jigelu Rani<a href="05 - Jigelu Rani.mp3"><play>Play</play></a></p><hr />
+<p>06 - Orayyo<a href="06 - Orayyo.mp3"><play>Play</play></a></p><hr />
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

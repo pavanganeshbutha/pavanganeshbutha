@@ -1,0 +1,110 @@
+
+<html>
+<title>College Stuff</title>
+<head>
+<style>
+l{
+   color:white;
+   font-family:Monotype Corsiva;
+   font-size:80px; 
+   word-spacing:10px;
+   position:relative;
+   top:0px;
+   left:500px;
+   text-shadow:-10px 20px 10px grey;
+}
+m{
+    color:white;
+    font-family:arial;
+    font-size:25px;
+    position:relative;
+    top:0px;
+    left:0px;
+    
+}
+
+n{
+ color:white;
+    font-family:arial;
+    font-size:25px;
+    position:relative;
+    top:0px;
+    left:100px;
+}
+
+y{
+ color:white;
+    font-family:arial;
+    font-size:25px;
+    position:relative;
+    top:0px;
+    left:200px;
+}
+
+r{
+ color:white;
+    font-family:arial;
+    font-size:25px;
+    position:relative;
+    top:0px;
+    left:300px;
+}
+
+c{
+ color:white;
+    font-family:arial;
+    font-size:25px;
+    position:relative;
+    top:0px;
+    left:400px;
+}
+
+a:link{
+  text-decoration:none;
+}
+
+d{
+ color:white;
+   font-family:Segoe MDL2 Assets;
+   font-size:50px; 
+   word-spacing:10px;
+   position:relative;
+   top:10px;
+   left:5px;
+  
+}
+
+mate{
+  color:white;
+   font-size:70px;
+  font-family:Modern;
+  position:relative;
+  top:10px;
+  left:500px;  
+}
+
+
+
+
+</style>
+</head>
+<body bgcolor="#00BFFF">
+   <l>CSE  KHIT</l>
+   <hr />
+   <a href="1.home.html"><m>Home</m></a>
+   <a href="2.collegestuff.html"><n>College Stuff</n></a>
+   <a href="3.entertainment.html"><y>Entertainment</y></a>
+   <a href="4.more.html"><r>More</r></a>
+   <a href="5.help.html"><c>Help</c></a>
+<hr />
+    <a href="2.1notes.html"><mate>Note/Materials</mate></a><br /><hr />    
+    <a href="2.2labs.html"><mate>Labs</mate></a><br /><hr />
+    <a href="2.3assignments.html"><mate>Assignments</mate></a><br /><hr />
+</body>
+</html>
+
+
+
+
+
+
